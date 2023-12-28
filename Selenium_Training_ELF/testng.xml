@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="dummy_programs_for_batch_execution.Casio"/>
+      <class name="dummy_programs_for_batch_execution.HelperAttributes"/>
+      <class name="dummy_programs_for_batch_execution.JokerAndWitch"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

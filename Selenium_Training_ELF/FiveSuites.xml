@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<parameter name="bname" value="chrome"></parameter>
+		<classes>
+			<class name="testNG_suit_programs.JokerAndWitch" />
+			<class name="testNG_suit_programs.DemoWorkshop" />
+			<class name="testNG_suit_programs.Casio" />
+			<class name="testNG_suit_programs.Vtiger" />
+			<class name="testNG_suit_programs.Fastrack" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

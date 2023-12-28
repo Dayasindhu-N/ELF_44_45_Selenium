@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on Computers]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Desktops]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Product]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on add to cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on shopping cart]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on checkbox button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Cleared the First name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Cleared the last name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Cleared the email textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in First name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in Last name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in email textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in Company name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Selected India in country drop down]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in city name textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in Address1 textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in Address2 textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in pincode textbox]]>
+    </line>
+    <line>
+      <![CDATA[Entered the data in Phone Number textbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Continue button after entering the billing address details]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Continue button after selecting the billing address]]>
+    </line>
+    <line>
+      <![CDATA[Selected the time of delivery]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Continue button after selecting the shipping method]]>
+    </line>
+    <line>
+      <![CDATA[Selected the type of payemnt]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Continue button after selecting the payment method]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Continue button after selecting the payment information]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on the Confirm button to place the order]]>
+    </line>
+    <line>
+      <![CDATA[Order has been placed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-28T11:55:45 IST" name="Default suite" finished-at="2023-12-28T11:56:21 IST" duration-ms="35376">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T11:55:45 IST" name="Default test" finished-at="2023-12-28T11:56:21 IST" duration-ms="35376">
+      <class name="scripts.TC_Id_002">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:55:45 IST" name="BeforeSuite" finished-at="2023-12-28T11:55:45 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:55:45 IST" name="BeforeTest" finished-at="2023-12-28T11:55:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:55:45 IST" name="BeforeClass" finished-at="2023-12-28T11:55:56 IST" duration-ms="11110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:55:56 IST" name="BeforeMethod" finished-at="2023-12-28T11:55:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="addToCart()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:55:57 IST" name="addToCart" finished-at="2023-12-28T11:56:12 IST" duration-ms="15994" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Computers]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Desktops]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Product]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on add to cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on shopping cart]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on checkbox button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Cleared the First name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Cleared the last name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Cleared the email textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in First name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in Last name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in email textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in Company name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Selected India in country drop down]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in city name textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in Address1 textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in Address2 textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in pincode textbox]]>
+            </line>
+            <line>
+              <![CDATA[Entered the data in Phone Number textbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Continue button after entering the billing address details]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Continue button after selecting the billing address]]>
+            </line>
+            <line>
+              <![CDATA[Selected the time of delivery]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Continue button after selecting the shipping method]]>
+            </line>
+            <line>
+              <![CDATA[Selected the type of payemnt]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Continue button after selecting the payment method]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Continue button after selecting the payment information]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on the Confirm button to place the order]]>
+            </line>
+            <line>
+              <![CDATA[Order has been placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:56:12 IST" name="AfterMethod" finished-at="2023-12-28T11:56:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:56:13 IST" name="AfterClass" finished-at="2023-12-28T11:56:21 IST" duration-ms="8206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:56:21 IST" name="AfterTest" finished-at="2023-12-28T11:56:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:scripts.TC_Id_002@1ed1993a]" started-at="2023-12-28T11:56:21 IST" name="AfterSuite" finished-at="2023-12-28T11:56:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- scripts.TC_Id_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
